@@ -6,34 +6,34 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedScenePath-0:
-      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
-      flags: 0
-    RecentlyUsedScenePath-1:
-      value: 22424703114646680e0b0227036c6b15050358192f2d2835633c133af6f9
-      flags: 0
-    RecentlyUsedScenePath-2:
       value: 224247031146467e353a3e035f0f500756271726356807233e2c0920adcc3b2fd2e83af0d03b2b392b3ddf3d07354e00d60f0404b92f0f061e3dfe0b1ffa5e061fcc0cdc
       flags: 0
-    RecentlyUsedScenePath-3:
+    RecentlyUsedScenePath-1:
       value: 224247031146467e353a3e035f0f500756271726356807233e2c0920add7352ce7f579d6c33f32337626ea310b0d023afc0f471ef8021e12
       flags: 0
-    RecentlyUsedScenePath-4:
+    RecentlyUsedScenePath-2:
       value: 22424703114646680e0b0227036c72111f19563f22213229
       flags: 0
-    RecentlyUsedScenePath-5:
+    RecentlyUsedScenePath-3:
       value: 224247031146467e353a3e035f0f500756271726356807233e2c0920add73d36e6a806e6eb230f3d3a09fc7333370f3bbd2e0c06f944263b2631d90b1cf05e061fcc0cdc
       flags: 0
-    RecentlyUsedScenePath-6:
+    RecentlyUsedScenePath-4:
       value: 22424703114646680e0b0227036c6b150503563f22213229
       flags: 0
-    RecentlyUsedScenePath-7:
+    RecentlyUsedScenePath-5:
       value: 22424703114646680e0b0227036c4b1505034a6439262f2434
       flags: 0
-    RecentlyUsedScenePath-8:
+    RecentlyUsedScenePath-6:
       value: 22424703114646680e0b0227036c6b15050311242b6712353e3d5326ece92021
       flags: 0
-    RecentlyUsedScenePath-9:
+    RecentlyUsedScenePath-7:
+      value: 224247031146467a2c43212d02261231375834253b68163f21305d12f1f3312cf1a801e8f33f2d730626ea310b71253aff053a08f3050f450400f41a08
+      flags: 0
+    RecentlyUsedScenePath-8:
       value: 22424703114646680e0b0227036c6b15050311242b6732353e3d4f7df7ee3d2cfb
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c7211060457033f24273e29663032f2b17a2decee22f0
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
